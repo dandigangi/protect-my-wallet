@@ -1,0 +1,83 @@
+Product,Link,Pricing
+Amazon API Gateway,https://aws.amazon.com/api-gateway/,https://aws.amazon.com/api-gateway/pricing/
+Amazon AppStream 2.0,https://aws.amazon.com/appstream2/,https://aws.amazon.com/appstream2/pricing/
+Amazon Augmented AI,https://aws.amazon.com/augmented-ai/,https://aws.amazon.com/augmented-ai/pricing/
+Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/,https://aws.amazon.com/rds/aurora/dsql/pricing/
+Amazon Bedrock,https://aws.amazon.com/bedrock/,https://aws.amazon.com/bedrock/pricing/
+Amazon CloudFront,https://aws.amazon.com/cloudfront/,https://aws.amazon.com/cloudfront/pricing/
+Amazon CloudWatch,https://aws.amazon.com/cloudwatch/,https://aws.amazon.com/cloudwatch/pricing/
+Amazon CodeBuild,https://aws.amazon.com/codebuild/,https://aws.amazon.com/codebuild/pricing/
+Amazon CodeCatalyst,https://aws.amazon.com/codecatalyst/,https://aws.amazon.com/codecatalyst/pricing/
+Amazon Cognito,https://aws.amazon.com/cognito/,https://aws.amazon.com/cognito/pricing/
+Amazon Comprehend,https://aws.amazon.com/comprehend/,https://aws.amazon.com/comprehend/pricing/
+Amazon Detective,https://aws.amazon.com/detective/,https://aws.amazon.com/detective/pricing/
+Amazon DevOps Guru,https://aws.amazon.com/devops-guru/,https://aws.amazon.com/devops-guru/pricing/
+Amazon DocumentDB,https://aws.amazon.com/documentdb/,https://aws.amazon.com/documentdb/pricing/
+Amazon DynamoDB,https://aws.amazon.com/dynamodb/,https://aws.amazon.com/dynamodb/pricing/
+Amazon EC2,https://aws.amazon.com/ec2/,https://aws.amazon.com/ec2/pricing/
+Amazon ECS,https://aws.amazon.com/ecs/,https://aws.amazon.com/ecs/pricing/
+Amazon EFS,https://aws.amazon.com/efs/,https://aws.amazon.com/efs/pricing/
+Amazon EBS,https://aws.amazon.com/ebs/,https://aws.amazon.com/ebs/pricing/
+Amazon ECR,https://aws.amazon.com/ecr/,https://aws.amazon.com/ecr/pricing/
+Amazon ECS Anywhere,https://aws.amazon.com/ecs/anywhere/,https://aws.amazon.com/ecs/anywhere/pricing/
+Amazon ElastiCache,https://aws.amazon.com/elasticache/,https://aws.amazon.com/elasticache/pricing/
+Amazon GuardDuty,https://aws.amazon.com/guardduty/,https://aws.amazon.com/guardduty/pricing/
+Amazon Inspector,https://aws.amazon.com/inspector/,https://aws.amazon.com/inspector/pricing/
+Amazon Keyspaces,https://aws.amazon.com/keyspaces/,https://aws.amazon.com/keyspaces/pricing/
+Amazon Lex,https://aws.amazon.com/lex/,https://aws.amazon.com/lex/pricing/
+Amazon Lightsail,https://aws.amazon.com/lightsail/,https://aws.amazon.com/lightsail/pricing/
+Amazon Macie,https://aws.amazon.com/macie/,https://aws.amazon.com/macie/pricing/
+Amazon MemoryDB,https://aws.amazon.com/memorydb/,https://aws.amazon.com/memorydb/pricing/
+Amazon MQ,https://aws.amazon.com/amazon-mq/,https://aws.amazon.com/amazon-mq/pricing/
+Amazon Neptune,https://aws.amazon.com/neptune/,https://aws.amazon.com/neptune/pricing/
+Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/,https://aws.amazon.com/opensearch-service/pricing/
+Amazon Personalize,https://aws.amazon.com/personalize/,https://aws.amazon.com/personalize/pricing/
+Amazon Polly,https://aws.amazon.com/polly/,https://aws.amazon.com/polly/pricing/
+Amazon Q Developer,https://aws.amazon.com/q/developer/,https://aws.amazon.com/q/developer/pricing/
+Amazon QuickSight,https://aws.amazon.com/quicksight/,https://aws.amazon.com/quicksight/pricing/
+Amazon RDS,https://aws.amazon.com/rds/,https://aws.amazon.com/rds/pricing/
+Amazon Redshift,https://aws.amazon.com/redshift/,https://aws.amazon.com/redshift/pricing/
+Amazon Rekognition,https://aws.amazon.com/rekognition/,https://aws.amazon.com/rekognition/pricing/
+Amazon S3,https://aws.amazon.com/s3/,https://aws.amazon.com/s3/pricing/
+Amazon SageMaker,https://aws.amazon.com/sagemaker/,https://aws.amazon.com/sagemaker/pricing/
+Amazon SNS,https://aws.amazon.com/sns/,https://aws.amazon.com/sns/pricing/
+Amazon SQS,https://aws.amazon.com/sqs/,https://aws.amazon.com/sqs/pricing/
+Amazon Textract,https://aws.amazon.com/textract/,https://aws.amazon.com/textract/pricing/
+Amazon Transcribe,https://aws.amazon.com/transcribe/,https://aws.amazon.com/transcribe/pricing/
+Amazon Translate,https://aws.amazon.com/translate/,https://aws.amazon.com/translate/pricing/
+Amazon WorkSpaces,https://aws.amazon.com/workspaces/,https://aws.amazon.com/workspaces/pricing/
+Amazon WorkSpaces Web,https://aws.amazon.com/workspaces/web/,https://aws.amazon.com/workspaces/web/pricing/
+AWS Amplify,https://aws.amazon.com/amplify/,https://aws.amazon.com/amplify/pricing/
+AWS Application Discovery Service,https://aws.amazon.com/application-discovery/,https://aws.amazon.com/application-discovery/pricing/
+AWS Application Migration Service,https://aws.amazon.com/application-migration-service/,https://aws.amazon.com/application-migration-service/pricing/
+AWS AppSync,https://aws.amazon.com/appsync/,https://aws.amazon.com/appsync/pricing/
+AWS Artifact,https://aws.amazon.com/artifact/,https://aws.amazon.com/artifact/pricing/
+AWS Audit Manager,https://aws.amazon.com/audit-manager/,https://aws.amazon.com/audit-manager/pricing/
+AWS CDK,https://aws.amazon.com/cdk/,https://aws.amazon.com/cdk/pricing/
+AWS CloudFormation,https://aws.amazon.com/cloudformation/,https://aws.amazon.com/cloudformation/pricing/
+AWS CloudTrail,https://aws.amazon.com/cloudtrail/,https://aws.amazon.com/cloudtrail/pricing/
+AWS CodePipeline,https://aws.amazon.com/codepipeline/,https://aws.amazon.com/codepipeline/pricing/
+AWS Database Migration Service,https://aws.amazon.com/dms/,https://aws.amazon.com/dms/pricing/
+AWS Glue,https://aws.amazon.com/glue/,https://aws.amazon.com/glue/pricing/
+AWS HealthLake,https://aws.amazon.com/healthlake/,https://aws.amazon.com/healthlake/pricing/
+AWS IoT Core,https://aws.amazon.com/iot-core/,https://aws.amazon.com/iot-core/pricing/
+AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/,https://aws.amazon.com/iot-device-defender/pricing/
+AWS IoT Device Management,https://aws.amazon.com/iot-device-management/,https://aws.amazon.com/iot-device-management/pricing/
+AWS IoT Events,https://aws.amazon.com/iot-events/,https://aws.amazon.com/iot-events/pricing/
+AWS IoT Greengrass,https://aws.amazon.com/greengrass/,https://aws.amazon.com/greengrass/pricing/
+AWS IoT SiteWise,https://aws.amazon.com/iot-sitewise/,https://aws.amazon.com/iot-sitewise/pricing/
+AWS KMS,https://aws.amazon.com/kms/,https://aws.amazon.com/kms/pricing/
+AWS Lambda,https://aws.amazon.com/lambda/,https://aws.amazon.com/lambda/pricing/
+AWS Migration Evaluator,https://aws.amazon.com/migration-evaluator/,https://aws.amazon.com/migration-evaluator/pricing/
+AWS Migration Hub,https://aws.amazon.com/migration-hub/,https://aws.amazon.com/migration-hub/pricing/
+AWS Organizations,https://aws.amazon.com/organizations/,https://aws.amazon.com/organizations/pricing/
+AWS Private CA,https://aws.amazon.com/private-ca/,https://aws.amazon.com/private-ca/pricing/
+AWS Secrets Manager,https://aws.amazon.com/secrets-manager/,https://aws.amazon.com/secrets-manager/pricing/
+AWS Security Hub,https://aws.amazon.com/security-hub/,https://aws.amazon.com/security-hub/pricing/
+AWS Shield,https://aws.amazon.com/shield/,https://aws.amazon.com/shield/pricing/
+AWS Step Functions,https://aws.amazon.com/step-functions/,https://aws.amazon.com/step-functions/pricing/
+AWS Storage Gateway,https://aws.amazon.com/storagegateway/,https://aws.amazon.com/storagegateway/pricing/
+AWS Systems Manager,https://aws.amazon.com/systems-manager/,https://aws.amazon.com/systems-manager/pricing/
+AWS WAF,https://aws.amazon.com/waf/,https://aws.amazon.com/waf/pricing/
+AWS X-Ray,https://aws.amazon.com/xray/,https://aws.amazon.com/xray/pricing/
+Elastic Load Balancing,https://aws.amazon.com/elasticloadbalancing/,https://aws.amazon.com/elasticloadbalancing/pricing/
